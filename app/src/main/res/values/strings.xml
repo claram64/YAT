@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YAT</string>
+    <string name="next">next</string>
+    <string name="_2021">_2021</string>
+    <string name="your_augmented_tour">your_augmented_tour</string>
+    <string name="log_out">Log out</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="email">email</string>
+    <string name="password" />
+    <string name="sign_up">Sign up</string>
+</resources>
